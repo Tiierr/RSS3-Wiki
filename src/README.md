@@ -31,9 +31,9 @@ Extended Reading:
 
 ## How RSS3 works?
 
-[RSS3 Protocls](./protocol/README.md) classify information into four types - profiles links assets notes
+[RSS3 Protocols](./protocol/README.md) classify information into four types - profiles links assets notes
 
-[RSS3 Apps](#rss3-apps) access and publish data using RSS3 SDKs in the format defined by RSS3 Protocls
+[RSS3 Apps](#rss3-apps) access and publish data using RSS3 SDKs in the format defined by RSS3 Protocols
 
 [RSS3 SDKs](./sdk/list.md) fetch data from the RSS3 Network and publish data to RSS3 Supported Networks
 
