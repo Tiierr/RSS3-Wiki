@@ -16,3 +16,4 @@ Have a question? You can communicate directly with core developers in the `#💡
 - [Week 6 - March 25, 2022](./03-25-2022.md)
 - [Week 7 - April 1, 2022](./04-01-2022.md)
 - [Week 8 - April 8, 2022](./04-08-2022.md)
+- [Week 9 - April 15, 2022](./04-15-2022.md)
