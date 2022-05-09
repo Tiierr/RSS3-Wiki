@@ -18,10 +18,11 @@ The RSS3 protocol does not restrict what source can be used for asset, which cre
 | -- | -- | -- | -- | -- |
 | 0 | Crossbell | TODO | Ethereum | Crossbell |
 | 1 | Ethereum NFT | <https://ethereum.org/en/nft/> | Ethereum | Ethereum, Polygon, Binance Smart Chain, Arbitrum, Avalanche, Fantom, Gnosis |
-| 2 | Solana NFT | <https://solana.com> | Solana | Solana |
-| 3 | Flow NFT | <https://www.onflow.org/> | Flow | Flow |
-| 4 | PlayStation Trophy | <https://www.playstation.com/> | PlayStation | PlayStation |
-| 5 | GitHub Achievement | <https://github.com/> | GitHub | GitHub |
+| 2 | Ethereum Cryptocurrency | <https://ethereum.org/en/developers/docs/standards/tokens/erc-20/>, <https://ethereum.org/en/developers/docs/intro-to-ether/> | Ethereum | Ethereum, Polygon, Binance Smart Chain, Arbitrum, Avalanche, Fantom, Gnosis |
+| 3 | Solana NFT | <https://solana.com> | Solana | Solana |
+| 4 | Flow NFT | <https://www.onflow.org/> | Flow | Flow |
+| 5 | PlayStation Trophy | <https://www.playstation.com/> | PlayStation | PlayStation |
+| 6 | GitHub Achievement | <https://github.com/> | GitHub | GitHub |
 
 ## Responses
 
